@@ -1,0 +1,39 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=RaspiForest_PCB_v7
+*Date=15:17:41
+*CreatedBy=Fritzing 0.9.2b.11.19.8d2d5970658f0bed09c661c9ea9a515b5f40f44c
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;10.4704;-150.935;0;Bottom;J1
+2;;;42.2416;-134.421;-90;Bottom;RTC (DS-1307)
+3;3V;;5.39044;-166.175;0;Bottom;VCC1
+4;;THT;32.0604;-51.8752;90;Bottom;GPIO - RPI HIJITO
+5;;;5.39044;-103.945;0;Bottom;J8
+6;;;14.2804;-120.455;0;Bottom;J7
+7;;;43.4904;-152.205;0;Bottom;J3
+8;;;30.7904;-152.205;0;Bottom;J2
+9;;300 mil [THT];72.675;-147.125;180;Bottom;Diodo
+10;;THT;32.0604;-107.755;90;Bottom;GPIO - RPI PAPA
+11;100nF;100 mil [THT, multilayer];3.45722;-96.343;180;Bottom;Switch Papa
+12;;THT;60.0004;-164.905;-90;Bottom;J4
+13;;relay-g5v;79.0504;-134.425;-90;Bottom;Relevo
+14;;THT;35.6588;-164.905;-90;Bottom;J3
+15;;TO92 [THT];74.0593;-157.095;90;Bottom;Transistor NPN (3204)
+16;;THT;42.2204;-116.645;-90;Bottom;J5
+17;;;5.39044;-136.965;0;Bottom;J5
+18;;;18.0904;-154.745;0;Bottom;J1
+19;;;41.8676;-82.4565;0;Bottom;TXT1
+20;;;14.2804;-139.505;0;Bottom;Digital Level Converter
+21;;;61.4245;-157.131;0;Bottom;J4
+22;100nF;100 mil [THT, multilayer];3.50605;-40.4805;180;Bottom;Switch Hijito
+23;;;5.39035;-109.025;0;Bottom;Via10
+24;;THT;62.5404;-116.645;-90;Bottom;J6
